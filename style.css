@@ -53,7 +53,7 @@ span{
 /* hero-section-container-start*/
 .hero-section-container{
   display: flex;
-  border: 2px solid red;
+  /* border: 2px solid red; */
   justify-content: space-between;
   align-items: center;
   height: 85vh;
@@ -62,7 +62,7 @@ span{
 }
 
 .hero-introduction-container{
-  border: 2px solid green;
+  /* border: 2px solid green; */
   /* margin: 0 5rem 0 10rem; */
   padding: 0 3rem 0 0;
 }
@@ -93,7 +93,7 @@ span{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  border: 2px solid blue;
+  /* border: 2px solid blue; */
   /* margin: 0 10rem 0 5rem; */
 
 }
@@ -112,7 +112,7 @@ span{
 .sc-container{
   display: flex;
   width: 100%;
-  border: 2px solid blue;
+  /* border: 2px solid blue; */
 }
 .sc-container i{
   display: flex;
